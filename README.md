@@ -26,3 +26,20 @@ A web-based Vehicle Service Management System developed using PHP, MySQL, HTML, 
 3. Configure database connection in config.php
 4. Start Apache and MySQL
 5. Open the project in a browser
+
+## Screenshots
+
+### Login Page
+![Login Page](screenshots/login-page.png)
+
+### User Dashboard
+![User Dashboard](screenshots/user-dashboard.png)
+
+### Admin Dashboard
+![Admin Dashboard](screenshots/admin-dashboard.png)
+
+### Service Request Management
+![Service Request](screenshots/service-request.png)
+
+### Reports
+![Reports](screenshots/reports-page.png)
