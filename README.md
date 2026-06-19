@@ -30,16 +30,16 @@ A web-based Vehicle Service Management System developed using PHP, MySQL, HTML, 
 ## Screenshots
 
 ### Login Page
-![Login Page](screenshots/login.png)
+![Login Page](Screenshots/login.png)
 
 ### User Dashboard
-![User Dashboard](screenshots/User-Dashboard.png)
+![User Dashboard](Screenshots/User-Dashboard.png)
 
 ### Admin Dashboard
-![Admin Dashboard](screenshots/Admin-Dashboard.png)
+![Admin Dashboard](Screenshots/Admin-Dashboard.png)
 
 ### Service Request Management
-![Service Request](screenshots/Service-Request.png)
+![Service Request](Screenshots/Service-Request.png)
 
 ### Reports
-![Reports](screenshots/User-Report.png)
+![Reports](Screenshots/User-Report.png)
